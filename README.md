@@ -62,7 +62,8 @@ abstract class Main {
 [텍스트](주소)
 [네이버](https://naver.com)
 ![이미지 설명](https://cdn.pixabay.com/photo/2021/02/08/19/55/cocker-5996316_1280.jpg)
-[![이미지 설명](https://cdn.pixabay.com/photo/2021/02/08/19/55/cocker-5996316_1280.jpg)](https://naver.com)
+
+[![이미지 설명](https://images.unsplash.com/photo-1710769509812-1b5cf1605362?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)](https://naver.com)
 <div align=center>
 이 문장은 가운데 정렬
 </div>
